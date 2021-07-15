@@ -1,7 +1,12 @@
-<h2>My favorite writers</h2>
+<h2>Image Processing Samples</h2>
 <ul>
-	<li>Robin Sarmah</li>
-	<li>Nepolion Hill</li>
+	<li>Reading an image</li>
+	<li>Rotate an image</li>
+    <li>Image translation</li>
+	<li>Rotate an image</li>
+    <li>Image threshold</li>
+	<li>Image filtering</li>
+    <li>Face detection</li>
 </ul>
 <h3>Work Experiences</h3>
 <table border="1">
