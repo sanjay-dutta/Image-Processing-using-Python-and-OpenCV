@@ -1,4 +1,3 @@
-<hr>
 <h2>My favorite writers</h2>
 <ul>
 	<li>Robin Sarmah</li>
