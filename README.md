@@ -1,23 +1,3 @@
-<html>
-<head>
-	<meta charset="UTF-8">
-<title>Sanjay's personal website</title>
-<link rel="stylesheet" type="text/css" href="css/style.css">
-
-</head>
-<body>
-	<table cellspacing="20">
-		<tr>
-			<td><img src="images/sanjay.png" alt="My profile picture"></td>
-			<td><h1>Sanjay Dutta</h1>
-<p>I am a software professional</p>
-<p>My <a href="https://www.linkedin.com/in/sanjay-dutta/"> LinkedIn profile </a> </p>
-			</td>
-		</tr>
-
-
-	</table>
-
 <hr>
 <h2>My favorite writers</h2>
 <ul>
