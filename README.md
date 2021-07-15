@@ -11,9 +11,20 @@
 <h3>Implementation</h3>
 <li>Reading an image</li>
 <img src ="Images/flower1.png">
-<li>Rotate an image</li><br>
-    <p>Original image</p>
+<li>Rotate an image</li>
+<p>Original image</p>
 <img src ="Images/1.png">
+<p>Rotate</p>
+<img src ="Images/2.png">
+<li>Image translation</li>
+<img src ="Images/3.png">
+<li>Image threshold</li>
+<img src ="Images/4.png">
+<img src ="Images/5.png">
+<li>Image filtering</li>
+<img src ="Images/6.png">
+<li>Face detection</li>
+<img src ="Images/kids.png">
 <hr>
 <!-- <a href="hobbies.html">My hobbies</a> <br> -->
 <!-- <a href="contact.html">My Contact Details</a> -->
