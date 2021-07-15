@@ -10,19 +10,19 @@
 </ul>
 <h3>Implementation</h3>
 <li>Reading an image</li>
-<img src ="Images/flower1.png">
+<img src ="Images/flower1.png"><br>
 <li>Rotate an image</li>
 <p>Original image</p>
-<img src ="Images/1.png">
+<img src ="Images/1.png"><br>
 <p>Rotate</p>
-<img src ="Images/2.png">
+<img src ="Images/2.png"><br>
 <li>Image translation</li>
 <img src ="Images/3.png">
-<li>Image threshold</li>
-<img src ="Images/4.png">
-<img src ="Images/5.png">
+<li>Image threshold</li><br>
+<img src ="Images/4.png"><br>
+<img src ="Images/5.png"><br>
 <li>Image filtering</li>
-<img src ="Images/6.png">
+<img src ="Images/6.png"><br>
 <li>Face detection</li>
 <img src ="Images/kids.png">
 <hr>
