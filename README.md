@@ -8,6 +8,7 @@
 	<li>Image filtering</li>
     <li>Face detection</li>
 </ul>
+<hr>
 <h3>Implementation</h3>
 <li>Reading an image</li><br>
 <img src ="Images/flower1.png"><br>
