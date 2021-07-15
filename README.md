@@ -12,7 +12,7 @@
 <li>Reading an image</li>
 <img src ="Images/flower1.png">
 <li>Rotate an image</li>
-<br><br><p>Original image</p>
+    <p>Original image</p>
 <img src ="Images/1.png">
 <hr>
 <!-- <a href="hobbies.html">My hobbies</a> <br> -->
