@@ -8,7 +8,8 @@
 	<li>Image filtering</li>
     <li>Face detection</li>
 </ul>
-<h3>Work Experiences</h3>
+<h3>Implementation</h3>
+<li>Reading an image</li>
 <hr>
 <!-- <a href="hobbies.html">My hobbies</a> <br> -->
 <!-- <a href="contact.html">My Contact Details</a> -->
