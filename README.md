@@ -11,7 +11,7 @@
 <h3>Implementation</h3>
 <li>Reading an image</li>
 <img src ="Images/flower1.png">
-<li>Rotate an image</li>
+<li>Rotate an image</li><br>
     <p>Original image</p>
 <img src ="Images/1.png">
 <hr>
