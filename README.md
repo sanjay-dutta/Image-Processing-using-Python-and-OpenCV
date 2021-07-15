@@ -18,8 +18,8 @@
 <img src ="Images/2.png"><br>
 <li>Image translation</li><br>
 <img src ="Images/3.png"><br>
-<p>Original image</p><br>
 <li>Image threshold</li><br>
+<p>Original image</p><br>
 <img src ="Images/5.png"><br>
 <img src ="Images/4.png"><br>
 <li>Image filtering</li><br>
