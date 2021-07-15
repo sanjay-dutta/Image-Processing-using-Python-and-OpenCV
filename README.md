@@ -17,10 +17,11 @@
 <p>Rotate</p><br>
 <img src ="Images/2.png"><br>
 <li>Image translation</li><br>
-<img src ="Images/3.png">
+<img src ="Images/3.png"><br>
+<p>Original image</p><br>
 <li>Image threshold</li><br>
-<img src ="Images/4.png"><br>
 <img src ="Images/5.png"><br>
+<img src ="Images/4.png"><br>
 <li>Image filtering</li><br>
 <img src ="Images/6.png"><br>
 <li>Face detection</li>
